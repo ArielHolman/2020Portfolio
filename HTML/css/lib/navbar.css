@@ -5,7 +5,7 @@
 .navbar {
   position: absolute;
   left: 0;
-  top: 15px;
+  top: 20px;
   padding: 0;
   width: 100%;
   z-index: 2;
@@ -145,8 +145,8 @@
   position: fixed;
   top: 0;
   background-color: rgb(38, 41, 46, 0.95);
-  height: auto;
-  padding: 15px 0px;
+  height: 120px;
+  padding: 0px 0px;
 }
 
 .navbar.fixed-top.navbar-dark .navbar-nav .nav-link {
