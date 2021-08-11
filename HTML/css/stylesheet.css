@@ -47,7 +47,7 @@ header {
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
-  background-image: url("https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2251&q=80");
+  background-image: url("../images/commons/ArielBackground.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -68,7 +68,7 @@ header {
 
 .hero-headline {
   position: absolute;
-  top: 50%;
+  top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -752,8 +752,8 @@ h5.timeline-title {
   font-weight: 400;
 }
 
-.hover-text{
-  margin-top:90%;
+.hover-text {
+  margin-top: 90%;
 }
 
 /* clear fix */
@@ -1189,8 +1189,7 @@ img.mfp-img {
   cursor: pointer;
 }
 
-.portfolio-image{
-  
+.portfolio-image {
 }
 
 @media screen and (max-width: 800px) and (orientation: landscape),
