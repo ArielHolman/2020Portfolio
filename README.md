@@ -4,11 +4,13 @@ Hey there! Welcome to my portfolio! Take a look around and let me know if you ha
 
 ## Built With
 
-- [Bootstrap]
-- [HTML]
-- [CSS]
+- Bootstrap
+- HTML
+- CSS
 
 ## Authors
 
 - Ariel Holman: <a href="https://www.linkedin.com/in/ariel-holman/">LinkedIn</a> - <a href="https://github.com/ArielHolman">GitHub</a>
+
+https://arielholman.dev/
 
